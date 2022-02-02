@@ -1,4 +1,0 @@
-gvmagic
-numpy
-matplotlib
-pydot
